@@ -197,6 +197,8 @@ footer p{
 @media screen and (max-width: 992px){
 	
 	header{top:24%;}
+	h2{display: none;}
+	h1{font-size: 30pt;}
 
 }
 
