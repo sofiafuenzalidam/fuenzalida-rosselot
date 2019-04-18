@@ -2,32 +2,32 @@
 var trabajos = [
 {
     figure: "media/foto-01.jpg",
-    title: "Lorem ipsum 01",
-    about: "Nulla pretium non sapien eget fermentum",
+    title: "COOKTENT",
+    about: "Cocina por inducción electro- magnética para cocinar en el interior de la carpa.",
 }, {
     figure: "media/foto-02.jpg",
-    title: "Lorem ipsum 02",
-    about: "Nulla pretium non sapien eget fermentum",
+    title: "PHILODRY",
+    about: "Ropa interior deporti- va especializada para personas con sobrepeso u obesidad, que sufren problemas dermatológicos o sudoración excesiva.",
 }, {
     figure: "media/foto-03.jpg",
-    title: "Lorem ipsum 03",
-    about: "Nulla pretium non sapien eget fermentum",
+    title: "ENTRENOS",
+    about: "Entrenos es un juego de astucia y percepción, que nace a partir del juego 'Monito Mayor'.",
 }, {
     figure: "media/foto-04.jpg",
-    title: "Lorem ipsum 04",
-    about: "Nulla pretium non sapien eget fermentum",
+    title: "LINTERNA LEICA",
+    about: "Linterna inspirada en el diseño de la cámara Leica X.",
 }, {
     figure: "media/foto-05.jpg",
-    title: "Lorem ipsum 05",
-    about: "Nulla pretium non sapien eget fermentum",
+    title: "SILLA INFANTIL",
+    about: "Silla de madera para niños inspirada en la libélula.",
 }, {
     figure: "media/foto-06.jpg",
-    title: "Lorem ipsum 06",
-    about: "Nulla pretium non sapien eget fermentum",
+    title: "U-NIDOS",
+    about: "Accesorio de cama, diseñado para la comodidad del descanso de la madre junto a su bebé.",
 }, {
     figure: "media/foto-07.jpg",
-    title: "Lorem ipsum 07",
-    about: "Nulla pretium non sapien eget fermentum",
+    title: "KAPORTE",
+    about: "Arnés especializado para el transporte de carretillas de carga.",
 }
 ]
 // LUEGO CREAMOS PARTES DEL SITIO CON CADA DATO CONTENIDO EN LA VARIABLE
