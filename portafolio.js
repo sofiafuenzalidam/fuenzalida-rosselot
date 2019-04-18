@@ -3,11 +3,11 @@ var trabajos = [
 {
     figure: "media/foto-01.jpg",
     title: "COOKTENT",
-    about: "Cocina por inducción electro- magnética para cocinar en el interior de la carpa.",
+    about: "Cocina por inducción electromagnética para cocinar en el interior de la carpa.",
 }, {
     figure: "media/foto-02.jpg",
     title: "PHILODRY",
-    about: "Ropa interior deporti- va especializada para personas con sobrepeso u obesidad, que sufren problemas dermatológicos o sudoración excesiva.",
+    about: "Ropa interior deportiva especializada para personas con sobrepeso u obesidad, que sufren problemas dermatológicos o sudoración excesiva.",
 }, {
     figure: "media/foto-03.jpg",
     title: "ENTRENOS",
