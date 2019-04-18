@@ -90,7 +90,7 @@ video{
 	background-image:url('media/dupla-01.jpg');
 	background-position:top right;
 	background-repeat:no-repeat;
-	background-size:auto 100%;
+	background-size: 100%;
 }
 .primera h4{padding: 2% 40% 1% 2%;}
 
@@ -107,7 +107,7 @@ video{
 	background-image:url('media/dupla-02.jpg');
 	background-position:top left;
 	background-repeat:no-repeat;
-	background-size:auto 100%;
+	background-size: 100%;
 }
 
 .segunda h4{padding: 2% 2% 1% 40%;}
