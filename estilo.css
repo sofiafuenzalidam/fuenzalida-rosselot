@@ -149,7 +149,7 @@ video{
 	width:100%; 
 	height:auto; 
 	margin-bottom:-4px;
-	filter: grayscale(1);
+	filter: grayscale(0.6);
 }
 
 .item:hover figure img{
