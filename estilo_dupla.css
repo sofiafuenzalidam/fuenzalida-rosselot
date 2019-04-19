@@ -1,0 +1,53 @@
+.dupla{
+	filter: grayscale(0.2);
+	width:46%;
+	padding:2%;
+	float:left;
+	background-color:red;
+	}
+
+.primera{
+	min-height:300px;
+	text-align:left;
+	background-color:rgba(235, 235, 235, 1.00);
+	background-image:url('media/dupla-01.jpg');
+	background-position:top right;
+	background-repeat:no-repeat;
+	background-size: 100%;
+}
+.primera h4{padding: 2% 40% 1% 2%;}
+
+.primera h5{padding: 1% 40% 2% 2%; margin-bottom:5em; letter-spacing:0.1em;}
+
+.primera p{padding: 2% 40% 2% 2%;}
+
+.primera address{padding: 2% 40% 2% 2%; font-size:0.9em; font-style:normal;}
+
+.segunda{
+	min-height:300px;
+	text-align:right;
+	background-color:rgba(235, 235, 235, 1.00);
+	background-image:url('media/dupla-02.jpg');
+	background-position:top left;
+	background-repeat:no-repeat;
+	background-size: 100%;
+}
+
+.segunda h4{padding: 2% 2% 1% 40%;}
+
+.segunda h5{padding: 1% 2% 2% 40%; margin-bottom:5em; letter-spacing:0.1em;}
+
+.segunda p{padding: 2% 2% 2% 40%;}
+
+.segunda address{padding: 2% 2% 2% 40%; font-size:0.9em; font-style:normal;}
+
+
+@media screen and (orientation: portrait){
+	
+	.dupla{
+		width:96%;
+		padding:2%;
+		float:left;
+	}
+
+}
